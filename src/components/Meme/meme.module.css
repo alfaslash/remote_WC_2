@@ -1,0 +1,12 @@
+.meme {
+    display: block;
+    text-align: center;
+    max-width: 100vw;
+}
+.memeTitle {
+    font-size: 20px;
+}
+.memeImg {
+    max-width: 100%;
+    text-align: center;
+}
